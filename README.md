@@ -1,5 +1,5 @@
 # Leetcode-Everyday-2024
-A repo where I solve leetcode problems daily until 2025
+A repo where I grind Leetcode until 2025
 
 Notations:
 <br>
