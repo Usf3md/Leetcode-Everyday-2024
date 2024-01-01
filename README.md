@@ -1,4 +1,4 @@
-# Leetcode-Everyday-2024
+# Leetcode-Grind-2024
 A repo where I grind Leetcode until 2025
 
 Notations:
